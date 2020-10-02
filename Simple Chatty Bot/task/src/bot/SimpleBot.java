@@ -52,6 +52,7 @@ public class SimpleBot {
         System.out.println("2. Nai desu.");
         System.out.println("3. Wakara nai.");
         System.out.println("4. Hentai ja nai, Katsura Da!");
+        System.out.println("Arigatai!");
 
         boolean flag = false;
 
